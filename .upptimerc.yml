@@ -13,6 +13,8 @@ sites:
     url: https://rodney.asylum-os.com/
   - name: Pluto Server
     url: https://pluto.asylum-os.com/
+  - name: App Store site
+    url: https://win.asylum-os.com/store/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
