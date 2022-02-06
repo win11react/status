@@ -12,7 +12,7 @@ sites:
   - name: Rodney Server
     url: https://rodney.asylum-os.com/
   - name: Pluto Server
-    url: https://pluto.asylum-os.com/
+    url: $PLUTO
   - name: App Store site
     url: https://win.asylum-os.com/store/
   - name: Blue's Website
