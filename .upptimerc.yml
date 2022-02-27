@@ -9,8 +9,6 @@ sites:
     url: https://win11docs.asylum-os.com/
   - name: PR Preview System
     url: https://github.com/features/actions
-  - name: Rodney Server
-    url: https://rodney.asylum-os.com/
   - name: App Store site
     url: https://win.asylum-os.com/store/
   - name: Blue's Website
