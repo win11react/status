@@ -11,9 +11,9 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 145,
-    "timeDay": 178,
-    "timeWeek": 143,
-    "timeMonth": 163,
+    "timeDay": 116,
+    "timeWeek": 124,
+    "timeMonth": 161,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2022-03-16": 5
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 133,
-    "timeWeek": 246,
-    "timeMonth": 149,
-    "timeYear": 133,
+    "time": 132,
+    "timeDay": 77,
+    "timeWeek": 229,
+    "timeMonth": 148,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 416,
-    "timeWeek": 260,
-    "timeMonth": 210,
-    "timeYear": 197,
+    "time": 196,
+    "timeDay": 122,
+    "timeWeek": 237,
+    "timeMonth": 200,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 121,
-    "timeDay": 521,
-    "timeWeek": 204,
-    "timeMonth": 125,
-    "timeYear": 121,
+    "time": 120,
+    "timeDay": 43,
+    "timeWeek": 176,
+    "timeMonth": 121,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2022-02-23": 23
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 118,
-    "timeWeek": 120,
-    "timeMonth": 128,
-    "timeYear": 139,
+    "time": 137,
+    "timeDay": 30,
+    "timeWeek": 105,
+    "timeMonth": 125,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -99,18 +99,19 @@
     "icon": "https://favicons.githubusercontent.com/fire.asylum-os.com",
     "slug": "fire-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.65%",
+    "uptimeDay": "87.49%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 340,
-    "timeDay": 389,
-    "timeWeek": 354,
+    "timeDay": 0,
+    "timeWeek": 328,
     "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2022-03-25": 0
+      "2022-03-26": 62,
+      "2022-03-25": 118
     }
   },
   {
@@ -124,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1109,
-    "timeDay": 1225,
-    "timeWeek": 1171,
-    "timeMonth": 1109,
-    "timeYear": 1109,
+    "time": 1114,
+    "timeDay": 1166,
+    "timeWeek": 1164,
+    "timeMonth": 1114,
+    "timeYear": 1114,
     "dailyMinutesDown": {}
   }
 ]
