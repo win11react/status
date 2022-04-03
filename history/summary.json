@@ -99,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/fire.asylum-os.com",
     "slug": "fire-server",
     "status": "down",
-    "uptime": "52.82%",
+    "uptime": "52.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.82%",
-    "uptimeYear": "52.82%",
+    "uptimeMonth": "52.13%",
+    "uptimeYear": "52.13%",
     "time": 340,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2022-04-03": 72,
+      "2022-04-03": 404,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
       "2022-03-31": 1440,
@@ -127,9 +127,9 @@
     "url": "https://update-server-win11.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/update-server-win11.vercel.app",
     "slug": "update-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -138,6 +138,8 @@
     "timeWeek": 1182,
     "timeMonth": 1153,
     "timeYear": 1153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 0
+    }
   }
 ]
