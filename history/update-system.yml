@@ -1,7 +1,7 @@
 url: https://update-server-win11.vercel.app/
-status: down
-code: 500
-responseTime: 7875
-lastUpdated: 2022-04-05T20:27:22.048Z
+status: up
+code: 200
+responseTime: 1254
+lastUpdated: 2022-04-05T20:38:35.167Z
 startTime: Wed Mar 16 2022 19:31:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
