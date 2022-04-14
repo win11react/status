@@ -6,7 +6,7 @@ sites:
   - name: Win11React
     url: http://win11.blueedge.me/
   - name: Docs Site
-    url: https://win11docs.asylum-os.com/
+    url: https://win11react-docs.andrewstech.me/
   - name: PR Preview System
     url: https://github.com/features/actions
   - name: App Store site
