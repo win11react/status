@@ -13,10 +13,6 @@ sites:
     url: https://win.asylum-os.com/store/
   - name: Blue's Website
     url: https://blueedge.me/
-  - name: Fire Server
-    url: https://fire.asylum-os.com/
-  - name: Update System
-    url: https://update-server-win11.vercel.app/
    
 
 status-website:
