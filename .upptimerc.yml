@@ -13,6 +13,8 @@ sites:
     url: https://win.asylum-os.com/store/
   - name: Blue's Website
     url: https://blueedge.me/
+  - name: Win11react.com 
+    url: https://Win11react.com
    
 
 status-website:
