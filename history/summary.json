@@ -48,18 +48,20 @@
     "url": "https://github.com/features/actions",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pr-preview-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 168,
-    "timeWeek": 266,
-    "timeMonth": 300,
-    "timeYear": 280,
-    "dailyMinutesDown": {}
+    "time": 281,
+    "timeDay": 371,
+    "timeWeek": 305,
+    "timeMonth": 308,
+    "timeYear": 281,
+    "dailyMinutesDown": {
+      "2022-11-08": 0
+    }
   },
   {
     "name": "App Store site",
