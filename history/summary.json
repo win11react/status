@@ -48,19 +48,19 @@
     "url": "https://github.com/features/actions",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pr-preview-system",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 190,
-    "timeWeek": 284,
-    "timeMonth": 269,
-    "timeYear": 282,
+    "time": 281,
+    "timeDay": 172,
+    "timeWeek": 268,
+    "timeMonth": 265,
+    "timeYear": 281,
     "dailyMinutesDown": {
-      "2022-12-30": 0
+      "2022-12-30": 24
     }
   },
   {
