@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 147,
-    "timeWeek": 116,
-    "timeMonth": 163,
+    "timeDay": 76,
+    "timeWeek": 114,
+    "timeMonth": 162,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2022-09-15": 38
@@ -29,16 +29,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.50%",
     "time": 139,
-    "timeDay": 201,
-    "timeWeek": 139,
-    "timeMonth": 142,
+    "timeDay": 214,
+    "timeWeek": 134,
+    "timeMonth": 147,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2022-09-15": 38,
-      "2022-04-14": 1235,
-      "2022-04-13": 1440
+      "2022-04-14": 1235
     }
   },
   {
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
-    "timeDay": 375,
-    "timeWeek": 217,
-    "timeMonth": 264,
+    "timeDay": 152,
+    "timeWeek": 216,
+    "timeMonth": 263,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2022-12-30": 24
@@ -67,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/win.asylum-os.com.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "79.27%",
+    "uptime": "79.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.29%",
+    "uptimeYear": "75.02%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-04-12": 64,
+      "2023-04-13": 63,
+      "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -186,9 +186,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 122,
-    "timeWeek": 65,
-    "timeMonth": 91,
+    "timeDay": 30,
+    "timeWeek": 62,
+    "timeMonth": 90,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2022-09-15": 38
@@ -206,8 +206,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 175,
-    "timeDay": 159,
-    "timeWeek": 121,
+    "timeDay": 117,
+    "timeWeek": 118,
     "timeMonth": 140,
     "timeYear": 175,
     "dailyMinutesDown": {
