@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 211,
+    "timeDay": 74,
     "timeWeek": 198,
-    "timeMonth": 175,
+    "timeMonth": 171,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2022-09-15": 38
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 141,
-    "timeDay": 273,
-    "timeWeek": 169,
+    "timeDay": 237,
+    "timeWeek": 192,
     "timeMonth": 176,
-    "timeYear": 146,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2022-09-15": 38
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 305,
-    "timeWeek": 259,
-    "timeMonth": 228,
+    "timeDay": 180,
+    "timeWeek": 261,
+    "timeMonth": 229,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2022-12-30": 24
@@ -65,18 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/win.asylum-os.com.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "75.62%",
+    "uptime": "75.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.36%",
+    "uptimeYear": "70.32%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-05-03": 66,
+      "2023-05-04": 65,
+      "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
@@ -200,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 112,
-    "timeWeek": 171,
-    "timeMonth": 115,
+    "timeDay": 156,
+    "timeWeek": 185,
+    "timeMonth": 113,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2022-09-15": 38
@@ -220,9 +221,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 173,
-    "timeDay": 230,
-    "timeWeek": 136,
-    "timeMonth": 136,
+    "timeDay": 164,
+    "timeWeek": 142,
+    "timeMonth": 138,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2022-07-01": 70,
