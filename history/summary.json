@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 243,
-    "timeWeek": 217,
-    "timeMonth": 225,
+    "timeDay": 249,
+    "timeWeek": 238,
+    "timeMonth": 226,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 230,
-    "timeWeek": 209,
-    "timeMonth": 204,
+    "timeDay": 261,
+    "timeWeek": 212,
+    "timeMonth": 206,
     "timeYear": 174,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pr-preview-system",
     "status": "up",
-    "uptime": "53.91%",
+    "uptime": "53.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 245,
-    "timeDay": 240,
+    "timeDay": 58,
     "timeWeek": 217,
-    "timeMonth": 156,
-    "timeYear": 254,
+    "timeMonth": 152,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-12-15": 1189,
+      "2024-12-16": 85,
+      "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
@@ -415,8 +416,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1440,
-      "2023-12-17": 1440
+      "2023-12-18": 1440
     }
   },
   {
@@ -425,7 +425,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/win11react.github.io.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "35.23%",
+    "uptime": "35.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -436,7 +436,8 @@
     "timeMonth": 0,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-12-15": 1189,
+      "2024-12-16": 85,
+      "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
@@ -780,8 +781,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1440,
-      "2023-12-17": 1440
+      "2023-12-18": 1440
     }
   },
   {
@@ -796,9 +796,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 256,
-    "timeWeek": 171,
-    "timeMonth": 172,
+    "timeDay": 70,
+    "timeWeek": 149,
+    "timeMonth": 167,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -808,18 +808,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/win11react.com.ico",
     "slug": "win11react-com",
     "status": "up",
-    "uptime": "49.40%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "19.34%",
-    "time": 464,
-    "timeDay": 387,
+    "uptime": "49.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "19.41%",
+    "time": 460,
+    "timeDay": 369,
     "timeWeek": 816,
     "timeMonth": 479,
-    "timeYear": 464,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2024-12-15": 10,
       "2024-12-14": 30,
       "2024-12-13": 17,
       "2024-12-12": 96,
@@ -1120,8 +1119,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1440,
-      "2023-12-17": 1440
+      "2023-12-18": 1440
     }
   }
 ]
