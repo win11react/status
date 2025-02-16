@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 154,
-    "timeWeek": 224,
-    "timeMonth": 236,
-    "timeYear": 214,
+    "timeDay": 281,
+    "timeWeek": 217,
+    "timeMonth": 242,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 207,
-    "timeWeek": 165,
-    "timeMonth": 187,
+    "timeDay": 268,
+    "timeWeek": 183,
+    "timeMonth": 193,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -44,13 +44,13 @@
     "uptime": "52.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.78%",
-    "uptimeYear": "4.20%",
-    "time": 260,
-    "timeDay": 283,
-    "timeWeek": 237,
-    "timeMonth": 568,
-    "timeYear": 279,
+    "uptimeMonth": "52.12%",
+    "uptimeYear": "4.23%",
+    "time": 262,
+    "timeDay": 709,
+    "timeWeek": 298,
+    "timeMonth": 588,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2025-01-30": 894,
       "2025-01-29": 1440,
@@ -399,8 +399,7 @@
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   },
   {
@@ -409,7 +408,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/win11react.github.io.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "33.26%",
+    "uptime": "33.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -420,7 +419,8 @@
     "timeMonth": 0,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-02-15": 1373,
+      "2025-02-16": 81,
+      "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -764,8 +764,7 @@
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   },
   {
@@ -780,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 186,
-    "timeWeek": 158,
-    "timeMonth": 173,
+    "timeDay": 231,
+    "timeWeek": 157,
+    "timeMonth": 179,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -793,17 +792,17 @@
     "slug": "win11react-com",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "93.12%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "96.32%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "94.83%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "99.45%",
     "time": 487,
-    "timeDay": 237,
+    "timeDay": 246,
     "timeWeek": 237,
-    "timeMonth": 473,
+    "timeMonth": 467,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2025-02-15": 99,
+      "2025-02-15": 89,
       "2025-02-14": 52,
       "2025-02-13": 182,
       "2025-02-12": 71,
@@ -853,7 +852,8 @@
       "2024-12-18": 19,
       "2024-12-17": 44,
       "2024-12-16": 22,
-      "2024-12-14": 30
+      "2024-12-14": 30,
+      "2024-12-13": 17
     }
   }
 ]
