@@ -389,7 +389,7 @@
     "timeMonth": 0,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-03-18": 77,
+      "2025-03-18": 80,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -762,8 +762,8 @@
     "slug": "win11react-com",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "93.33%",
-    "uptimeWeek": "96.56%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "96.54%",
     "uptimeMonth": "97.06%",
     "uptimeYear": "99.49%",
     "time": 438,
@@ -772,7 +772,7 @@
     "timeMonth": 311,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2025-03-18": 0,
+      "2025-03-18": 3,
       "2025-03-17": 96,
       "2025-03-15": 66,
       "2025-03-14": 70,
