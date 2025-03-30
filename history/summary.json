@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 230,
-    "timeWeek": 220,
-    "timeMonth": 240,
-    "timeYear": 224,
+    "time": 211,
+    "timeDay": 142,
+    "timeWeek": 199,
+    "timeMonth": 236,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 147,
-    "timeWeek": 169,
-    "timeMonth": 184,
-    "timeYear": 191,
+    "timeDay": 131,
+    "timeWeek": 158,
+    "timeMonth": 182,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pr-preview-system",
     "status": "up",
-    "uptime": "54.08%",
+    "uptime": "54.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.84%",
+    "uptimeYear": "16.01%",
     "time": 264,
-    "timeDay": 210,
-    "timeWeek": 237,
-    "timeMonth": 217,
+    "timeDay": 130,
+    "timeWeek": 199,
+    "timeMonth": 214,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2025-01-30": 894,
@@ -357,8 +357,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -367,10 +366,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/win11react.github.io.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "32.06%",
+    "uptime": "32.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "6.72%",
     "time": 352,
     "timeDay": 0,
@@ -378,7 +377,8 @@
     "timeMonth": 0,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-03-29": 610,
+      "2025-03-30": 87,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -722,8 +722,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -738,9 +737,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 137,
-    "timeWeek": 165,
-    "timeMonth": 153,
+    "timeDay": 100,
+    "timeWeek": 154,
+    "timeMonth": 151,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -752,13 +751,13 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "95.77%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "96.68%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "96.56%",
     "uptimeYear": "99.47%",
     "time": 454,
-    "timeDay": 1648,
-    "timeWeek": 769,
-    "timeMonth": 420,
+    "timeDay": 155,
+    "timeWeek": 820,
+    "timeMonth": 414,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2025-03-29": 61,
