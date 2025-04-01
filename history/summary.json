@@ -45,7 +45,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.56%",
+    "uptimeYear": "16.59%",
     "time": 264,
     "timeDay": 167,
     "timeWeek": 182,
@@ -364,7 +364,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/win11react.github.io.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "31.99%",
+    "uptime": "31.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -375,7 +375,7 @@
     "timeMonth": 0,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-04-01": 99,
+      "2025-04-01": 273,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -746,9 +746,9 @@
     "url": "https://Win11react.com",
     "icon": "https://icons.duckduckgo.com/ip3/win11react.com.ico",
     "slug": "win11react-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.51%",
+    "uptimeDay": "96.50%",
     "uptimeWeek": "96.31%",
     "uptimeMonth": "96.37%",
     "uptimeYear": "99.46%",
@@ -758,6 +758,7 @@
     "timeMonth": 420,
     "timeYear": 452,
     "dailyMinutesDown": {
+      "2025-04-01": 0,
       "2025-03-31": 50,
       "2025-03-30": 108,
       "2025-03-29": 61,
@@ -801,8 +802,7 @@
       "2025-02-09": 31,
       "2025-02-08": 42,
       "2025-02-07": 22,
-      "2025-02-06": 101,
-      "2025-02-05": 17
+      "2025-02-06": 101
     }
   }
 ]
