@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 112,
-    "timeWeek": 252,
-    "timeMonth": 231,
+    "timeDay": 255,
+    "timeWeek": 244,
+    "timeMonth": 229,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 152,
-    "timeWeek": 223,
-    "timeMonth": 186,
-    "timeYear": 192,
+    "timeDay": 486,
+    "timeWeek": 271,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -41,14 +41,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pr-preview-system",
     "status": "up",
-    "uptime": "54.88%",
+    "uptime": "54.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.44%",
+    "uptimeYear": "21.49%",
     "time": 265,
-    "timeDay": 233,
-    "timeWeek": 309,
+    "timeDay": 158,
+    "timeWeek": 254,
     "timeMonth": 224,
     "timeYear": 280,
     "dailyMinutesDown": {
@@ -337,8 +337,7 @@
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
-      "2024-04-20": 1440,
-      "2024-04-19": 1440
+      "2024-04-20": 1440
     }
   },
   {
@@ -358,7 +357,8 @@
     "timeMonth": 0,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2025-04-18": 1275,
+      "2025-04-19": 80,
+      "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -702,8 +702,7 @@
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
-      "2024-04-20": 1440,
-      "2024-04-19": 1440
+      "2024-04-20": 1440
     }
   },
   {
@@ -718,10 +717,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 95,
-    "timeWeek": 196,
-    "timeMonth": 176,
-    "timeYear": 158,
+    "timeDay": 143,
+    "timeWeek": 182,
+    "timeMonth": 173,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -732,13 +731,13 @@
     "status": "up",
     "uptime": "99.82%",
     "uptimeDay": "95.56%",
-    "uptimeWeek": "97.90%",
+    "uptimeWeek": "98.12%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "99.48%",
     "time": 440,
-    "timeDay": 784,
-    "timeWeek": 522,
-    "timeMonth": 445,
+    "timeDay": 865,
+    "timeWeek": 534,
+    "timeMonth": 447,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-04-18": 64,
