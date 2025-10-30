@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 231,
-    "timeWeek": 247,
-    "timeMonth": 245,
+    "timeDay": 395,
+    "timeWeek": 264,
+    "timeMonth": 247,
     "timeYear": 252,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 188,
-    "timeWeek": 219,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "timeDay": 145,
+    "timeWeek": 211,
+    "timeMonth": 206,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pr-preview-system",
     "status": "up",
-    "uptime": "61.26%",
+    "uptime": "61.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.37%",
+    "uptimeYear": "74.64%",
     "time": 280,
-    "timeDay": 238,
-    "timeWeek": 309,
-    "timeMonth": 283,
+    "timeDay": 339,
+    "timeWeek": 315,
+    "timeMonth": 284,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2025-07-28": 17,
@@ -144,8 +144,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -154,7 +153,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/win11react.github.io.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "28.73%",
+    "uptime": "28.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -165,7 +164,8 @@
     "timeMonth": 0,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-10-29": 97,
+      "2025-10-30": 88,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -506,8 +506,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -521,10 +520,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 165,
-    "timeWeek": 191,
-    "timeMonth": 174,
+    "time": 171,
+    "timeDay": 280,
+    "timeWeek": 203,
+    "timeMonth": 175,
     "timeYear": 174,
     "dailyMinutesDown": {}
   },
@@ -540,7 +539,7 @@
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.47%",
     "time": 401,
-    "timeDay": 172,
+    "timeDay": 122,
     "timeWeek": 172,
     "timeMonth": 177,
     "timeYear": 402,
