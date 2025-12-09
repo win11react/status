@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 121,
-    "timeWeek": 258,
-    "timeMonth": 258,
+    "time": 249,
+    "timeDay": 118,
+    "timeWeek": 217,
+    "timeMonth": 257,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 194,
-    "timeWeek": 210,
-    "timeMonth": 220,
-    "timeYear": 213,
+    "timeDay": 96,
+    "timeWeek": 181,
+    "timeMonth": 222,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pr-preview-system",
     "status": "up",
-    "uptime": "62.38%",
+    "uptime": "62.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.48%",
+    "uptimeYear": "85.60%",
     "time": 276,
-    "timeDay": 178,
-    "timeWeek": 199,
-    "timeMonth": 281,
+    "timeDay": 240,
+    "timeWeek": 196,
+    "timeMonth": 285,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-07-28": 17,
@@ -104,8 +104,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   },
   {
@@ -114,7 +113,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/win11react.github.io.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "27.91%",
+    "uptime": "27.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -125,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-12-08": 919,
+      "2025-12-09": 98,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -466,8 +466,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   },
   {
@@ -482,9 +481,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 283,
-    "timeWeek": 205,
-    "timeMonth": 188,
+    "timeDay": 96,
+    "timeWeek": 178,
+    "timeMonth": 189,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -499,9 +498,9 @@
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.46%",
-    "time": 395,
-    "timeDay": 153,
-    "timeWeek": 172,
+    "time": 394,
+    "timeDay": 152,
+    "timeWeek": 173,
     "timeMonth": 206,
     "timeYear": 395,
     "dailyMinutesDown": {
