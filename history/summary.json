@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 291,
-    "timeWeek": 367,
-    "timeMonth": 309,
+    "timeDay": 402,
+    "timeWeek": 410,
+    "timeMonth": 319,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 252,
-    "timeWeek": 254,
-    "timeMonth": 252,
-    "timeYear": 215,
+    "timeDay": 307,
+    "timeWeek": 284,
+    "timeMonth": 255,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pr-preview-system",
     "status": "up",
-    "uptime": "63.25%",
+    "uptime": "63.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "94.63%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "94.90%",
     "time": 345,
-    "timeDay": 351,
-    "timeWeek": 355,
-    "timeMonth": 1185,
+    "timeDay": 305,
+    "timeWeek": 370,
+    "timeMonth": 1235,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2025-12-23": 22,
@@ -74,8 +74,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   },
   {
@@ -84,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/win11react.github.io.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "27.26%",
+    "uptime": "27.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -95,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-01-11": 113,
+      "2026-01-12": 109,
+      "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -436,8 +436,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   },
   {
@@ -452,9 +451,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 92,
-    "timeWeek": 191,
-    "timeMonth": 205,
+    "timeDay": 284,
+    "timeWeek": 220,
+    "timeMonth": 212,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -470,8 +469,8 @@
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.45%",
     "time": 381,
-    "timeDay": 196,
-    "timeWeek": 149,
+    "timeDay": 112,
+    "timeWeek": 151,
     "timeMonth": 219,
     "timeYear": 357,
     "dailyMinutesDown": {
