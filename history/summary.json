@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 330,
-    "timeWeek": 253,
-    "timeMonth": 312,
-    "timeYear": 262,
+    "timeDay": 284,
+    "timeWeek": 231,
+    "timeMonth": 308,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 323,
-    "timeWeek": 243,
-    "timeMonth": 253,
+    "timeDay": 149,
+    "timeWeek": 207,
+    "timeMonth": 246,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "pr-preview-system",
     "status": "up",
-    "uptime": "63.58%",
+    "uptime": "63.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.19%",
+    "uptimeYear": "98.46%",
     "time": 345,
-    "timeDay": 236,
-    "timeWeek": 248,
-    "timeMonth": 906,
+    "timeDay": 237,
+    "timeWeek": 238,
+    "timeMonth": 274,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2025-12-23": 22,
@@ -61,8 +61,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -71,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/win11react.github.io.ico",
     "slug": "app-store-site",
     "status": "down",
-    "uptime": "27.01%",
+    "uptime": "27.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -82,7 +81,8 @@
     "timeMonth": 0,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-01-24": 102,
+      "2026-01-25": 115,
+      "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -423,8 +423,7 @@
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
-      "2025-01-26": 1440,
-      "2025-01-25": 1440
+      "2025-01-26": 1440
     }
   },
   {
@@ -438,10 +437,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 270,
-    "timeWeek": 220,
-    "timeMonth": 218,
+    "time": 176,
+    "timeDay": 85,
+    "timeWeek": 190,
+    "timeMonth": 202,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -453,14 +452,14 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.45%",
     "time": 358,
-    "timeDay": 164,
-    "timeWeek": 643,
-    "timeMonth": 271,
-    "timeYear": 350,
+    "timeDay": 208,
+    "timeWeek": 722,
+    "timeMonth": 270,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2026-01-17": 29,
       "2026-01-16": 24,
