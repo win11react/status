@@ -1,7 +1,7 @@
 url: https://github.com/features/actions
-status: up
-code: 200
-responseTime: 658
-lastUpdated: 2026-02-10T23:29:41.811Z
+status: down
+code: 502
+responseTime: 53
+lastUpdated: 2026-02-11T11:25:09.505Z
 startTime: 2022-01-31T19:38:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
