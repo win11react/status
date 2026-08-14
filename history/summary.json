@@ -67,17 +67,17 @@
     "url": "https://win11react.github.io/store/",
     "icon": "https://icons.duckduckgo.com/ip3/win11react.github.io.ico",
     "slug": "app-store-site",
-    "status": "down",
+    "status": "up",
     "uptime": "25.36%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "92.61%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "87.36%",
     "uptimeYear": "7.44%",
-    "time": 336,
-    "timeDay": 349,
-    "timeWeek": 397,
-    "timeMonth": 397,
-    "timeYear": 397,
+    "time": 335,
+    "timeDay": 311,
+    "timeWeek": 381,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2026-07-17": 1290,
       "2026-07-16": 1440,
@@ -417,7 +417,7 @@
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2026-07-21": 124,
-      "2026-08-14": 1
+      "2026-08-14": 106
     }
   },
   {
@@ -447,7 +447,7 @@
     "uptime": "94.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.36%",
+    "uptimeMonth": "87.61%",
     "uptimeYear": "75.88%",
     "time": 258,
     "timeDay": 418,
